@@ -1,16 +1,28 @@
-## Hi there 👋
+# Olá, sou o Arthur Vicente 👋
 
-<!--
-**vicenthur/vicenthur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um Desenvolvedor Back-end. No ecossistema **.NET**, com forte atuação em **ASP.NET Core** para o desenvolvimento de APIs e sistemas complexos.
+Estou sempre buscando aprender e aplicar as melhores práticas do mercado, expandindo meus conhecimentos em tecnologias de infraestrutura e nuvem para criar aplicações cada vez mais eficientes e resilientes.
 
-Here are some ideas to get you started:
+### 💻 Tecnologias e Ferramentas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Aqui estão algumas das tecnologias e ferramentas que utilizo e estou aprendendo:
+
+![My Skills](https://skillicons.dev/icons?i=cs,dotnet,aspnetcore,mysql,docker,aws,git,vscode,github)
+
+### 🌱 O que estou aprendendo
+
+Atualmente, estou me aprofundando em **AWS (Amazon Web Services)** e **Docker** através de um bootcamp intensivo da DIO. Busco aplicar esses conhecimentos para otimizar a implantação e escalabilidade das minhas aplicações.
+
+### 🚀 Meus Projetos
+
+
+### 📫 Conecte-se Comigo
+
+Adoraria conectar e trocar ideias!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-vicente-silva)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:avs.arthurvicente@gmail.com)
+
+---
+
+> _"Aprender, Construir, Inovar."_
