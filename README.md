@@ -11,10 +11,11 @@ Aqui estão algumas das tecnologias e ferramentas que utilizo e estou aprendendo
 
 ### 🌱 O que estou aprendendo
 
-Atualmente, estou me aprofundando em **AWS (Amazon Web Services)** e **Docker** através de um bootcamp intensivo da DIO. Busco aplicar esses conhecimentos para otimizar a implantação e escalabilidade das minhas aplicações.
+Atualmente, estou me aprofundando em **AWS (Amazon Web Services)** e **Docker** através de um bootcamp da DIO, e tambem sempre estou a melhorar e me desenvolver no ecossistema .NET principalmente em ASP.NET core, Busco aplicar esses conhecimentos para otimizar a implantação e escalabilidade das minhas aplicações.
 
-### 🚀 Meus Projetos
+### 🚀 Projetos
 
+EcoEletônicos: infelizmente por questões legais do fato que esta ligado ao Governo de Goias, a SukaTech GO, SECTI GO, e a propria UNIFIMES não é possivel por o codigo disnivel ao Publico
 
 ### 📫 Conecte-se Comigo
 
