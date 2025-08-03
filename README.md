@@ -1,10 +1,11 @@
-# Olá, sou o Arthur Vicente 👋
+# Olá, sou o Arthur Vicente 
 
 Sou um Desenvolvedor Back-end. No ecossistema **.NET**, com forte atuação em **ASP.NET Core** para o desenvolvimento de APIs e sistemas complexos.
 Estou sempre buscando aprender e aplicar as melhores práticas do mercado, expandindo meus conhecimentos em tecnologias de infraestrutura e nuvem para criar aplicações cada vez mais eficientes e resilientes.
 
 Percebe se que a uma enorme falta de Projetos pois a maioria que ficaram em minha conta antiga na qual perdi o acesso.
 
+# 🛠 GitHub em atualização. Projetos públicos em breve.
 ### 💻 Tecnologias e Ferramentas
 
 Aqui estão algumas das tecnologias e ferramentas que utilizo e estou aprendendo:
